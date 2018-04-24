@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ASTextNodePoC' do
+    pod 'Texture', '= 2.6'
+end
